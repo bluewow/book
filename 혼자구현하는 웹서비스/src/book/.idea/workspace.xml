@@ -58,7 +58,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
   <component name="RunManager" selected="Application.Application">
@@ -67,10 +67,25 @@
       <module name="book.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.khkim.book.spring.*" />
+          <option name="PATTERN" value="com.khkim.book.spring.domain.posts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostsApiControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="book.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.khkim.book.spring.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.khkim.book.spring.web" />
+      <option name="MAIN_CLASS_NAME" value="com.khkim.book.spring.web.PostsApiControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -107,21 +122,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PostsRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="book.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.khkim.book.spring.domain.posts.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.khkim.book.spring.domain.posts" />
-      <option name="MAIN_CLASS_NAME" value="com.khkim.book.spring.domain.posts.PostsRepositoryTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PostsRepositoryTest.load" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="book.test" />
       <extension name="coverage">
@@ -141,10 +141,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Application" />
+        <item itemvalue="JUnit.PostsApiControllerTest" />
         <item itemvalue="JUnit.PostsApiControllerTest.PostsUpdate" />
         <item itemvalue="JUnit.PostsApiControllerTest.PostsUpload" />
         <item itemvalue="JUnit.PostsRepositoryTest.load" />
-        <item itemvalue="JUnit.PostsRepositoryTest" />
       </list>
     </recent_temporary>
   </component>
@@ -162,6 +162,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="452" y="95" key="#Notifications" timestamp="1582173927591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="95" key="#Notifications/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582173927591" />
     <state x="452" y="95" key="#Plugins" timestamp="1582038959360">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -194,30 +198,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582037501556" />
-    <state width="1576" height="263" key="GridCell.Tab.0.bottom" timestamp="1582166938617">
+    <state width="1865" height="234" key="GridCell.Tab.0.bottom" timestamp="1582182859896">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1576" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582166938617" />
+    <state width="1865" height="234" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582182859896" />
     <state width="1576" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582100809807" />
-    <state width="1576" height="263" key="GridCell.Tab.0.center" timestamp="1582166938617">
+    <state width="1865" height="234" key="GridCell.Tab.0.center" timestamp="1582182859895">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1576" height="263" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582166938617" />
+    <state width="1865" height="234" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582182859895" />
     <state width="1576" height="263" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582100809807" />
-    <state width="1576" height="263" key="GridCell.Tab.0.left" timestamp="1582166938617">
+    <state width="1865" height="234" key="GridCell.Tab.0.left" timestamp="1582182859894">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1576" height="263" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582166938617" />
+    <state width="1865" height="234" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582182859894" />
     <state width="1576" height="263" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582100809807" />
-    <state width="1576" height="263" key="GridCell.Tab.0.right" timestamp="1582166938617">
+    <state width="1865" height="234" key="GridCell.Tab.0.right" timestamp="1582182859895">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1576" height="263" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582166938617" />
+    <state width="1865" height="234" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582182859895" />
     <state width="1576" height="263" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582100809807" />
-    <state x="352" y="77" key="SettingsEditor" timestamp="1582064409262">
+    <state x="352" y="77" key="SettingsEditor" timestamp="1582173912761">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="352" y="77" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582064409262" />
+    <state x="352" y="77" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582173912761" />
     <state x="588" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1582039793192">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

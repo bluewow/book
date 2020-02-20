@@ -9,7 +9,7 @@ import javax.persistence.*;
 @Getter             //클래스 내의 모든 필드 의 Getter 메소드 자동생성
 @NoArgsConstructor  //default 생성자 자동추가
 @Entity             //테이블과 링크될 클래스를 나타냄 매칭 ex) SalesManager.java => sales_manager table
-public class Posts {
+public class Posts extends BaseTimeEntity{
 
     @Id             //해당 테이블의 PK 필드
     @GeneratedValue(strategy = GenerationType.IDENTITY) //PK 의 생성 규칙 (auto_increment 가 된다)

@@ -10,9 +10,5 @@
         <module name="book.main" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="book.main" target="1.8" />
-      <module name="book.test" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
