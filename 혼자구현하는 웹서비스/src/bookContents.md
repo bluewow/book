@@ -1,4 +1,4 @@
-# 공통정리
+# 책내용 정리
 
 * spring 에서 bean 을 주입받는 방식
   * @Autowired
