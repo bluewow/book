@@ -1,8 +1,6 @@
 # JPA 
 자바 표준 ORM(Object Relational Mapping) - 객체를 관계형 데이터베이스에서 관리하는 기술
 
-![JPA] (혼자구현하는 웹서비스/images/JPA.png)
-
 즉, 개발자는 객체지향적인 프로그래밍을 하고, JPA가 이를 관계형 데이터베이스에 맞게 SQL 을 대신 생성 실행한다
 
 # JPA 를 쓰는 이유 
