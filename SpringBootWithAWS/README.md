@@ -4,5 +4,5 @@
 * Junit
 * JPA
 * 트랜잭션 스크립트와 Domain 방식
-* src/Domain 게시판구조.md
+* [Domain 중심의 게시판 구조](https://github.com/bluewow/book/blob/master/SpringBootWithAWS/src/DomainPosts.md)
 
