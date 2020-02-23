@@ -4,4 +4,5 @@
 * Junit
 * JPA
 * 트랜잭션 스크립트와 Domain 방식
+* src/Domain 게시판구조.md
 
