@@ -19,12 +19,14 @@ public class PostsService {
 
     private final PostsRepository postsRepository;
 
+    //등록
     @Transactional
     public Long save(PostsSaveRequestDto requestDto) {
 
         return postsRepository.save(requestDto.toEntity()).getId();
     }
 
+    //수정
     @Transactional
     public Long update(Long id, PostsUpdateRequestDto requestDto) {
         Posts posts = postsRepository.findById(id)
@@ -38,6 +40,7 @@ public class PostsService {
         return id;
     }
 
+    //조회
     public PostsResponseDto findById(Long id) {
         Posts entity = postsRepository.findById(id)
                 .orElseThrow(()->new IllegalArgumentException("해당 게시글이 없습니다. id=" + id));
@@ -45,6 +48,7 @@ public class PostsService {
         return new PostsResponseDto(entity);
     }
 
+    //조회
     @Transactional(readOnly = true) //트랜잭션 범위는 유지하되, 조회기능만 남겨두어 속도개선
     public List<PostsListResponseDto> findAllDesc() {
         //Posts 의 Stream 을 map 을 통해 PostsListResponseDto 변환후 List 로 반환하는 메소드
@@ -55,6 +59,15 @@ public class PostsService {
         // Stream은 "데이터의 흐름이다" 자바 8부터 추가된 기능으로 "컬렉션, 배열등의 저장 요소를 하나씩 참조하며
         // 함수형 인터페이스(람다식)를 적용하여 반복적으로 처리할 수 있도록 해주는 기능"이다.
 
+    }
+
+    @Transactional
+    public void delete(Long id) {
+        Posts posts = postsRepository.findById(id)
+                .orElseThrow(()->new IllegalArgumentException("해당 게시글이 없습니다. id=" + id));
+
+        //entity or deleteById 를 사용하여 id 로 삭제가능
+        postsRepository.delete(posts);
     }
 }
 
