@@ -16,20 +16,17 @@ public class PostsApiController {
     //@RequestBody Http 요청을 자바 객체로 변환
     @PostMapping("/api/v1/posts")   //등록
     public Long save(@RequestBody PostsSaveRequestDto requestDto) {
-
         return postsService.save(requestDto);
     }
 
     //@PathVariable Url 경로의 변수를 처리한다
     @PutMapping("/api/v1/posts/{id}") //수정
     public Long update(@PathVariable Long id, @RequestBody PostsUpdateRequestDto requestDto) {
-
         return postsService.update(id, requestDto);
     }
 
     @GetMapping("/api/v1/posts/{id}")   //조회
     public PostsResponseDto findById(@PathVariable Long id) {
-
         return postsService.findById(id);
     }
 }

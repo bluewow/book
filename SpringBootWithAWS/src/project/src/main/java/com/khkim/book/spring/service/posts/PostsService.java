@@ -47,7 +47,7 @@ public class PostsService {
 
     @Transactional(readOnly = true) //트랜잭션 범위는 유지하되, 조회기능만 남겨두어 속도개선
     public List<PostsListResponseDto> findAllDesc() {
-        //Posts 의 Stream 을 map 을 통해 PostsListResponseDto 변환 List 로 반환하는 메소드
+        //Posts 의 Stream 을 map 을 통해 PostsListResponseDto 변환후 List 로 반환하는 메소드
         return postsRepository.findAllDesc().stream()
                 .map(PostsListResponseDto::new) //람다식 = .map(posts -> new PostsListResponseDto(posts))
                 .collect(Collectors.toList()); //collect는 스트림의 값들을 모아주는 기능을 한다. toMap, toSet, toList로 해당 스트림을 다시 컬렉션으로 바꿔준다.
