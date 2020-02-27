@@ -1,20 +1,21 @@
 # 스프링 시큐리티와 OAuth 2.0 으로 로그인 
 
+### WHY
 로그인 기능을 id/password 방식보다는 구글, 페이스북, 네이버 로그인과 같은 로그인 기능을 사용하는 이유는 무엇일까?  
 - 기능이 많다 (보안, 비밀번호 찾기, 변경, 인증 기타 등)
 
-이번장에서는 Spring boot2 방식인 Spring Security Oauth2 Client 라이브러리를 사용해서 진행
+### HOW
+Spring boot2 방식인 Spring Security Oauth2 Client 라이브러리를 사용해서 진행
 
-구글 서비스 등록
-------------
+### 구글 서비스 등록
 구글서비스에서 신규서비스 생성(https://console.cloud.google.com)
 
-Spring 설정
----------
+### Spring 설정
 - application-oauth-properties 추가(client id,pw,scope 등록)
 - application-properties 에서 oauth properties 등록
 
-구글로그인 연동하기
--------
+### 구글로그인 연동하기
+User class 생성  
+![image](../assets/User.png)
 
-
+스프링 시큐리티 
