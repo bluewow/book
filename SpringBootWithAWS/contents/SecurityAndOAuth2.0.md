@@ -7,4 +7,13 @@
 
 구글 서비스 등록
 ------------
-step1. 구글서비스에서 신규서비스 생성(https://console.cloud.google.com)
+구글서비스에서 신규서비스 생성(https://console.cloud.google.com)
+
+Spring 설정
+---------
+- application-oauth-properties 추가(client id,pw,scope 등록)
+- application-properties 에서 oauth properties 등록
+
+구글로그인 연동하기
+-------
+
