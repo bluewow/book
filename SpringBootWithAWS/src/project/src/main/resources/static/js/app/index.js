@@ -15,7 +15,6 @@ var index = {
     delete: function() {
         var id = $('#id').val();
 
-        console.log('id = ' + id);
          $.ajax({
               type: 'DELETE',
               url: '/api/v1/posts/' + id,
