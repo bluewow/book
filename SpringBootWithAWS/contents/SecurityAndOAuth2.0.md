@@ -5,6 +5,6 @@
 
 이번장에서는 Spring boot2 방식인 Spring Security Oauth2 Client 라이브러리를 사용해서 진행
 
-1. 구글 서비스 등록
+구글 서비스 등록
 ------------
 step1. 구글서비스에서 신규서비스 생성(https://console.cloud.google.com)
