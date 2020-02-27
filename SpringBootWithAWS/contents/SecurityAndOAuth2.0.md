@@ -7,15 +7,16 @@
 ### HOW
 Spring boot2 방식인 Spring Security Oauth2 Client 라이브러리를 사용해서 진행
 
-### 구글 서비스 등록
+#### 1.구글 서비스 등록
 구글서비스에서 신규서비스 생성(https://console.cloud.google.com)
 
-### Spring 설정
+#### 2.Spring 설정
 - application-oauth-properties 추가(client id,pw,scope 등록)
 - application-properties 에서 oauth properties 등록
 
-### 구글로그인 연동하기
+#### 3.구글로그인 연동하기
 User class 생성  
 ![image](../assets/User.png)
 
-스프링 시큐리티 
+#### 4.스프링 시큐리티 
+
