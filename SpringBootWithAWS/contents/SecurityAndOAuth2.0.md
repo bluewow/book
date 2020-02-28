@@ -40,7 +40,8 @@ User class 생성
 https://developers.naver.com/apps/#/register?api=nvlogin 등록
 
 #### 8.기존 테스트에 시큐리티 적용하기
-
+- WebMvcTest
+- MockMvc
   
   
 
