@@ -2,7 +2,7 @@
 
 ### WHY
 로그인 기능을 id/password 방식보다는 구글, 페이스북, 네이버 로그인과 같은 로그인 기능을 사용하는 이유는 무엇일까?  
-- 기능이 많다 (보안, 비밀번호 찾기, 변경, 인증 기타 등)
+- 기능이 많다 (보안, 비밀번호 찾기, 변경, 인증 기타 등 구현하는데 작업량이 많다)
 
 ### HOW
 Spring boot2 방식인 Spring Security Oauth2 Client 라이브러리를 사용해서 진행
@@ -19,4 +19,11 @@ User class 생성
 ![image](../assets/User.png)
 
 #### 4.스프링 시큐리티 
+- org.springframework.boot:spring-boot-starter-oauth2-client 의존성 추가
+- config.auth 패키지 추가 (security 관련 클래스)
+  - CustomOauth2UserService, SecurityConfig, dto - OAuthAttributes, SessionUser
+  
+
+  
+
 
