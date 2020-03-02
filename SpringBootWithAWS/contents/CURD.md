@@ -19,10 +19,10 @@ Spring boot 의 기본 파일위치
 
 
 
-
+![crud_1.png](../assets/crud_1.png)
 
 [layout]: (../assets/CRUD_1.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3Nzc1NDU0NSwtMTE3NTk1OTEwMCwxND
-k3MDg1MjA5LDE1NDI1NjExOF19
+eyJoaXN0b3J5IjpbNjg1MTk0ODc2LC0xMTc1OTU5MTAwLDE0OT
+cwODUyMDksMTU0MjU2MTE4XX0=
 -->
