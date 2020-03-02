@@ -3,7 +3,8 @@
 #### 템플릿엔진과 Mustache
 템플릿 엔진이란? 
 - 지정된 템플릿 양식(JSP, Freemarker, Mustache, React, Vue 등)과 데이터가 합쳐저 HTML 문서를 출력하는 소프트웨어
-- 서버 템플릿엔
+- 서버 템플릿엔진(JSP, Freemarker, Mustache)
+- 프론트 템플릿 엔진(React, Vue)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMDU2MzE4XX0=
+eyJoaXN0b3J5IjpbMTU0MjU2MTE4XX0=
 -->
