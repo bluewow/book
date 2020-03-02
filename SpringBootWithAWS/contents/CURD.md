@@ -5,7 +5,13 @@
 
 - 지정된 템플릿 양식(JSP, Freemarker, Mustache, React, Vue 등)과 데이터가 합쳐저 HTML 문서를 출력하는 소프트웨어
 
+예제에서는 Mustache 를 사용하며 아래의 장점을 가지고 있다
+- 문법이 심플하다
+- 로직 코드를 사용할 수 없어 Vidw 의 역활과 서버의 역활을 명확하게 분리된다
+- 클라이언트 / 서버 모두 지원한다
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MzAxMDU0MCwxNTQyNTYxMThdfQ==
+eyJoaXN0b3J5IjpbMTQ5NzA4NTIwOSwxNTQyNTYxMThdfQ==
 -->
