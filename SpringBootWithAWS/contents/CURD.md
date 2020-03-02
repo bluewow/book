@@ -22,7 +22,9 @@ Spring boot 내의 Mustache 위치
 #### 레이아웃 방식
 - 공통역역을 별도의 파일로 분리하여 필요한 곳에 가져다 쓰는 방식(like React component)
 - header.mustache, footer.mustache 생성
-- css 는 header 에, js 는 footer 에 배치 -> 
+- css 는 header 에, js 는 footer 에 배치 -> 페이지 로딩속도 향상
+	- HTML 은 위에서 아래 즉 header 실행후 body 실행. js 는 화면생성후 호출하는 것이 좋음
+
 
 
 
@@ -36,6 +38,6 @@ Spring boot 내의 Mustache 위치
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTk1OTM4OSwtMTE3NTk1OTEwMCwxND
-k3MDg1MjA5LDE1NDI1NjExOF19
+eyJoaXN0b3J5IjpbMzMyODY1MjQ4LC0xMTc1OTU5MTAwLDE0OT
+cwODUyMDksMTU0MjU2MTE4XX0=
 -->
