@@ -13,16 +13,16 @@
 #### Mustache 파일 생성
 
 Spring boot 의 기본 파일위치
-[layout]
+![layout](../assets/crud_1.png)
 
 
 
 
 
-![crud_1.png](../assets/게시판구조.png)
 
-[layout]: (../assets/CRUD_1.png)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwNTM2Nzk0LC0xMTc1OTU5MTAwLDE0OT
-cwODUyMDksMTU0MjU2MTE4XX0=
+eyJoaXN0b3J5IjpbNDU3NDA0ODIsLTExNzU5NTkxMDAsMTQ5Nz
+A4NTIwOSwxNTQyNTYxMThdfQ==
 -->
