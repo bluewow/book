@@ -19,6 +19,10 @@ Spring boot 내의 Mustache 위치
 
 #### bootstrap 과 jQuery 사용
 
+#### 레이아웃 방식
+- 공통역역을 별도의 파일로 분리하여 필요한 곳에 가져다 쓰는 방식(like React component)
+
+
 
 
 
@@ -29,6 +33,6 @@ Spring boot 내의 Mustache 위치
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwMDk5NywtMTE3NTk1OTEwMCwxNDk3MD
-g1MjA5LDE1NDI1NjExOF19
+eyJoaXN0b3J5IjpbLTIwMDc2MDQ5MjgsLTExNzU5NTkxMDAsMT
+Q5NzA4NTIwOSwxNTQyNTYxMThdfQ==
 -->
