@@ -12,8 +12,14 @@
 
 #### Mustache 파일 생성
 
-Spring boot 의 기본 파일위치
+Spring boot 내의 Mustache 위치
+
 ![layout](../assets/crud_1.png)
+
+
+#### bootstrap 과 jQuery 사용
+
+
 
 
 
@@ -23,6 +29,6 @@ Spring boot 의 기본 파일위치
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3NDA0ODIsLTExNzU5NTkxMDAsMTQ5Nz
-A4NTIwOSwxNTQyNTYxMThdfQ==
+eyJoaXN0b3J5IjpbMzIwMDk5NywtMTE3NTk1OTEwMCwxNDk3MD
+g1MjA5LDE1NDI1NjExOF19
 -->
