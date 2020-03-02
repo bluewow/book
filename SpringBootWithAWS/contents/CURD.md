@@ -10,8 +10,11 @@
 - 로직 코드를 사용할 수 없어 Vidw 의 역활과 서버의 역활을 명확하게 분리된다
 - 클라이언트 / 서버 모두 지원한다
 
+#### Mustache 파일 생성
 
-
+Spring boot 의 기본 파일위치
+1.png 첨부
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NzA4NTIwOSwxNTQyNTYxMThdfQ==
+eyJoaXN0b3J5IjpbLTExNzU5NTkxMDAsMTQ5NzA4NTIwOSwxNT
+QyNTYxMThdfQ==
 -->
