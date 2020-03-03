@@ -16,7 +16,11 @@
 - 일상의 **만족**이 작은과제나 높은 목표보다는 중간 규모의 하이라이트에서 나온다
 
 ## 방법
-- 할 수도 이
+- 할 수도 있는 일 목록
+	- 할일 목록을 정리 -> 하이라이트 선정 -> 일정표
+- 개인 스프린트 진행하기
+	- 뇌는 시동이 필요하다 
+	- 글쓰기를 예시로 오래쉬었다가 글을쓰기 시작하면 첫날은 힘들지만 차차 적응해 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMzQ3Mzk2OCwyMDU1MTE1NjkxXX0=
+eyJoaXN0b3J5IjpbMTM4NDk3MTc4NywyMDU1MTE1NjkxXX0=
 -->
