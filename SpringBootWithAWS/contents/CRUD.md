@@ -18,13 +18,15 @@ Spring boot 내의 Mustache 위치
 ![layout](../assets/crud_1.png)
 
 ## 진행순서
+- bootstrap, jquery 사용
+
 - 기본페이지 만들기
 	- index.mustache 생성 
 	- indexController 생성
--  게시글 등록화면 만들기
 
+-  게시글 등록화면 만들기
 	- header, footer 추가
-	- 글등록 버튼 추가 in index.mustache
+	- 글등록 버튼 추가 
 	- 
 
 
@@ -55,6 +57,6 @@ Spring boot 내의 Mustache 위치
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NzE5NDgyNiwxNjY5MTUxOTMyLC0xMT
+eyJoaXN0b3J5IjpbLTE1NzUzNzk4OSwxNjY5MTUxOTMyLC0xMT
 MzODExOTYxLDE5OTc1NDI5MjBdfQ==
 -->
