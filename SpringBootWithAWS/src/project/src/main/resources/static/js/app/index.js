@@ -71,6 +71,7 @@ var index = {
 
 };
 index.init();
+//중복된 함수 이름이 발생할 경우 덮어쓰기를 방지한다
 
 /*
 _this 와 this

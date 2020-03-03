@@ -12,6 +12,8 @@ import org.springframework.web.bind.annotation.PathVariable;
 
 import javax.servlet.http.HttpSession;
 
+//page 와 관련된 컨트롤러
+
 @RequiredArgsConstructor
 @Controller
 public class IndexController {
