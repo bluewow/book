@@ -1,6 +1,6 @@
 # 메이크타임
 
-- Jake Knapp, JohnZeratsky
+- 저자 Jake Knapp, JohnZeratsky
 
 ## 실천적 시간설계 프로세스
 
@@ -8,5 +8,5 @@
 [초집중 Lasere](https://github.com/bluewow/book/blob/master/MakeTime/contents/laser.md)
 [에너지 충전 Energize](https://github.com/bluewow/book/blob/master/MakeTime/contents/energize.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MTc2MTg3Nl19
+eyJoaXN0b3J5IjpbLTExMjU2MTg0NF19
 -->
