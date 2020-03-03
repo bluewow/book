@@ -1,6 +1,6 @@
 # Mustache 를 통한 화면 구성하기
 
-#### 템플릿엔진과 Mustache
+## 템플릿엔진과 Mustache
 템플릿 엔진이란? 
 
 - 지정된 템플릿 양식(JSP, Freemarker, Mustache, React, Vue 등)과 데이터가 합쳐저 HTML 문서를 만들어 출력하는 포맷
@@ -11,12 +11,14 @@
 - 로직 코드를 사용할 수 없어 View 의 역활과 서버의 역활을 명확하게 분리할 수 있다
 - 클라이언트 / 서버 모두 지원한다
 
-#### Mustache 파일 생성
+## Mustache 파일 생성
 
 Spring boot 내의 Mustache 위치
 
 ![layout](../assets/crud_1.png)
 
+## 기타
+- 
 
 
 
@@ -33,5 +35,5 @@ Spring boot 내의 Mustache 위치
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NzU0MjkyMF19
+eyJoaXN0b3J5IjpbODg4Njg1NjEzLDE5OTc1NDI5MjBdfQ==
 -->
