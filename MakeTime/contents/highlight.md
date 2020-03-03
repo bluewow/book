@@ -11,7 +11,7 @@
 	- 긴급성 : 절대적으로 꼭 해야하는 무언가가 있다면 정하라
 	- 만족 : 하루가 끝날 무렵 가장 큰 만족을 안겨줄 하이라이트를 선정해라
 	- 즐거움 : 오늘을 되돌아 봤을때 가장 즐거움을 느낄일은 정하라
-- 
+- 시간이 60~90분 걸리는 하이라이트를 선택하라
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMTYzNjIwMywyMDU1MTE1NjkxXX0=
+eyJoaXN0b3J5IjpbLTExMjE4OTI0MTEsMjA1NTExNTY5MV19
 -->
