@@ -12,10 +12,11 @@
 
 
 ## 소감
-
+Point 
 ![main.png](https://github.com/bluewow/book/blob/master/MakeTime/assets/main.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxOTgyMTg4LC0xOTk0MjIyNTAxXX0=
+eyJoaXN0b3J5IjpbLTE0NzE0Nzc0MTIsLTE5OTQyMjI1MDFdfQ
+==
 -->
