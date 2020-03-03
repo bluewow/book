@@ -24,7 +24,9 @@ Spring boot 내의 Mustache 위치
 	- 브라우저의 스코프는 공용공간이기 때문에 덮어쓰일 수 있다 (중복 회피)
 - 페이지 로딩속도를 높이는 방법은?
 	- css 는 header 에 js 는 footer 에 배치. HTML 의 로딩순서는 위에서부터 아래이다. 즉 js 의 용량이 클수록 실행이 느려지면 css 를 먼저 호출한다
-- 
+- 레이아웃 방식이란?
+	- 공통영역(header, footer, side) 를 별도의 파일로 분리하여 React 의 component 처럼 가져다 쓰는 방식
+	
 
 
 
@@ -42,5 +44,5 @@ Spring boot 내의 Mustache 위치
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMjQzNzQyNiwxOTk3NTQyOTIwXX0=
+eyJoaXN0b3J5IjpbLTExMzM4MTE5NjEsMTk5NzU0MjkyMF19
 -->
