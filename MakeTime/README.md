@@ -14,9 +14,12 @@
 ## 소감
 Point 
 ![main.png](https://github.com/bluewow/book/blob/master/MakeTime/assets/main.png)
+- 하이라이트 : 초점을 선택하는 것으로 하루하루를 시작하라
+- 초집중 : 방해꾼을 물리쳐 하이라이트를 처리할 시간을 만들어라
+- 에너지 충전 : 뇌를 충전하기 위해 몸을 돌보아라
+- 돌아보기 : 시스템을 조절하고 개선하라
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzE0Nzc0MTIsLTE5OTQyMjI1MDFdfQ
-==
+eyJoaXN0b3J5IjpbMjAyMjU3NzkzNCwtMTk5NDIyMjUwMV19
 -->
