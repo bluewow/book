@@ -22,6 +22,9 @@ Spring boot 내의 Mustache 위치
 	- index.mustache 생성 
 	- indexController 생성 : index.mustache 호출
 -  게시글 등록화면 만들기
+	- bootstrap, jquery 사용
+	- header, footer 추가
+	- 글등록 버튼 추가 in index.mustache
 	- 
 
 
@@ -52,6 +55,6 @@ Spring boot 내의 Mustache 위치
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MjUzMzk4OSwtMTEzMzgxMTk2MSwxOT
+eyJoaXN0b3J5IjpbMTY2OTE1MTkzMiwtMTEzMzgxMTk2MSwxOT
 k3NTQyOTIwXX0=
 -->
