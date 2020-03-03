@@ -18,9 +18,12 @@ Spring boot 내의 Mustache 위치
 ![layout](../assets/crud_1.png)
 
 ## 기타
-- Spring boot 는 기본적으로 src/main/resources/static 에 위치한 JS, CSS, Image 등 정적파일들은 URL 에서 /로 설정된다
+- Spring boot 에서 Front 관련 코드는 어디서 관리될까?
+	- Spring boot 는 기본적으로 src/main/resources 에 위치하며 자동으로 인식된다
 - index.js 에서 변수의 속성에 function 을 추가한 이유는?
-	- 브라우저의 스코프는 공용공간이기 때문에 덮어쓰일 수 
+	- 브라우저의 스코프는 공용공간이기 때문에 덮어쓰일 수 있다 (중복 회피)
+- 
+
 
 
 
@@ -37,5 +40,5 @@ Spring boot 내의 Mustache 위치
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNDYwOTUwOCwxOTk3NTQyOTIwXX0=
+eyJoaXN0b3J5IjpbLTE0OTgwODAwMjYsMTk5NzU0MjkyMF19
 -->
