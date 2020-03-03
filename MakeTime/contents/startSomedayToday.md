@@ -1,7 +1,6 @@
+# '언젠가'가 바로 오늘이 되게 하라
 
 
-
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTc1MTg0NjkzMV19
 -->
