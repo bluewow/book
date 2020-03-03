@@ -18,13 +18,7 @@ Spring boot 내의 Mustache 위치
 ![layout](../assets/crud_1.png)
 
 
-#### bootstrap 과 jQuery 사용
 
-레이아웃 방식 추가 (공통역역을 별도의 파일로 분리하여 필요한 곳에 가져다 쓰는 방식)
-
-header.mustache, footer.mustache 생성 후 css 는 header 에, js 는 footer 에 배치하여  페이지 로딩속도를 향상시킨다.
-
-HTML 은 위에서 아래 즉 header 실행후 body 실행. js 는 화면생성후 호출하는 것이 좋음
 
 
 
@@ -39,5 +33,5 @@ HTML 은 위에서 아래 즉 header 실행후 body 실행. js 는 화면생성�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzgxNzQ0NTZdfQ==
+eyJoaXN0b3J5IjpbMTk5NzU0MjkyMF19
 -->
