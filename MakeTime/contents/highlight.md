@@ -5,7 +5,9 @@
 
 ## 글귀
 - 가능한 많은 일을 처리하려고 애쓰는 대신, 만족스럽고 중요한 성취에 초점을 맞추어라
+- 당신이 하루를 경험하는 방식은 당신에게 일어난 일들로 결정되지 않는다. 실제로는 관심있는 일을 선택함으로써 현실이 만들어진다
+- 하이라이트는 과제들과 목표사이의 단계이다
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NzE3MjY0MSwyMDU1MTE1NjkxXX0=
+eyJoaXN0b3J5IjpbLTEyMzgxMDYwNDksMjA1NTExNTY5MV19
 -->
