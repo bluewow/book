@@ -11,7 +11,7 @@
 ['언젠가'가 바로 오늘이 되게 하라](https://github.com/bluewow/book/blob/master/MakeTime/contents/startSomedayToday.md)  
 
 
-## 소감
+##  및 소감
 Point 
 ![main.png](https://github.com/bluewow/book/blob/master/MakeTime/assets/main.png)
 - 하이라이트 : 초점을 선택하는 것으로 하루하루를 시작하라
