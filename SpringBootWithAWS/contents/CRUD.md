@@ -11,17 +11,15 @@
 - 로직 코드를 사용할 수 없어 View 의 역활과 서버의 역활을 명확하게 분리할 수 있다
 - 클라이언트 / 서버 모두 지원한다
 
+## 사용 라이브러리
+- bootstrap
+- jQuery
+
 ## Mustache 파일 생성
 
 Spring boot 내의 Mustache 위치
 
 ![layout](../assets/crud_1.png)
-
-## 진행순서
-- bootstrap, jquery 사용
-
-
-
 
 ## 질문
 - Spring boot 에서 Front 관련 코드는 어디서 관리될까?
@@ -50,6 +48,6 @@ Spring boot 내의 Mustache 위치
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTY0NDk3NzQsLTE1NzUzNzk4OSwxNj
-Y5MTUxOTMyLC0xMTMzODExOTYxLDE5OTc1NDI5MjBdfQ==
+eyJoaXN0b3J5IjpbMjA1OTc2OTAzMiwtMTU3NTM3OTg5LDE2Nj
+kxNTE5MzIsLTExMzM4MTE5NjEsMTk5NzU0MjkyMF19
 -->
