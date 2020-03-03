@@ -21,7 +21,10 @@ Spring boot 내의 Mustache 위치
 - 기본페이지 만들기
 	- index.mustache 생성 
 	- indexController 생성 : index.mustache 호출
--  
+-  게시글 등록화면 만들기
+	- 
+
+
 ## 질문
 - Spring boot 에서 Front 관련 코드는 어디서 관리될까?
 	- Spring boot 는 기본적으로 src/main/resources 에 위치하며 자동으로 인식된다
@@ -49,6 +52,6 @@ Spring boot 내의 Mustache 위치
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NTY5OTcwNiwtMTEzMzgxMTk2MSwxOT
+eyJoaXN0b3J5IjpbMTY4MjUzMzk4OSwtMTEzMzgxMTk2MSwxOT
 k3NTQyOTIwXX0=
 -->
