@@ -16,7 +16,10 @@ Spring boot2 방식인 Spring Security Oauth2 Client 라이브러리를 사용�
 
 ## 3.구글로그인 연동하기
 User class 생성  
-![image](../assets/User.png)
+- domain/user
+	- Role
+	- User
+	- UserRepository
 
 ## 4.스프링 시큐리티 
 - org.springframework.boot:spring-boot-starter-oauth2-client 의존성 추가
@@ -53,5 +56,5 @@ https://developers.naver.com/apps/#/register?api=nvlogin 등록
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMjUyNDA2NSwtNzY4ODE3ODk4XX0=
+eyJoaXN0b3J5IjpbMTAzNTIxNDkxNSwtNzY4ODE3ODk4XX0=
 -->
