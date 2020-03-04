@@ -38,7 +38,8 @@ User class 생성  (사용자 권한과 정보)
 
 반복적호출을 어노테이션으로 대체한다 (어노테이션 Create)
 
-- LoginUser, LoginUserArgumentResolver, WebConfig 
+- config.auth
+	- LoginUser, LoginUserArgumentResolver, WebConfig 
 
 
 ## 6.세션 저장소로 데이터베이스 사용하기
@@ -66,7 +67,7 @@ https://developers.naver.com/apps/#/register?api=nvlogin 등록
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDk2NzI1MzEsMTI4MjYzOTY5NywxOT
-c4NzkzODM1LC0yODkzOTA1MTUsLTEzNTI2NzUzNjQsNjczMzg3
-ODc4LC03Njg4MTc4OThdfQ==
+eyJoaXN0b3J5IjpbNzM3MDQyNzc2LDEyODI2Mzk2OTcsMTk3OD
+c5MzgzNSwtMjg5MzkwNTE1LC0xMzUyNjc1MzY0LDY3MzM4Nzg3
+OCwtNzY4ODE3ODk4XX0=
 -->
