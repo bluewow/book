@@ -23,6 +23,7 @@ User class 생성  (사용자 권한과 정보)
 	- UserRepository
 
 ## 4.스프링 시큐리티 설정
+
 로그인과 이후 사용자 정보를 기반으로 정보수정, 세션 저장, 인증된 사용자 정보 등의 기능을 다룬다
 
 - org.springframework.boot:spring-boot-starter-oauth2-client 의존성 추가
@@ -62,7 +63,7 @@ https://developers.naver.com/apps/#/register?api=nvlogin 등록
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MjYzOTY5NywxOTc4NzkzODM1LC0yOD
-kzOTA1MTUsLTEzNTI2NzUzNjQsNjczMzg3ODc4LC03Njg4MTc4
-OThdfQ==
+eyJoaXN0b3J5IjpbMjQxMTg0ODAzLDEyODI2Mzk2OTcsMTk3OD
+c5MzgzNSwtMjg5MzkwNTE1LC0xMzUyNjc1MzY0LDY3MzM4Nzg3
+OCwtNzY4ODE3ODk4XX0=
 -->
