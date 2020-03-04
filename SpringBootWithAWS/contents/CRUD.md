@@ -35,8 +35,14 @@ Spring boot 내의 Mustache 위치
 - 레이아웃 방식이란?
 	- 공통영역(header, footer, side) 를 별도의 파일로 분리하여 React 의 component 처럼 가져다 쓰는 방식
 - REST 에서 CRUD 는 다음과 같이 HTTP Method 에 매핑된다
+	- Create - POST
+	- Read - GET
+	- Update - PUT
+	- Delete - DELETE
 	
 # 요약
+- 웹 요청에서의 테스트 코드 작성방법
+- 
 
 
 
@@ -54,7 +60,7 @@ Spring boot 내의 Mustache 위치
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1ODYxNTcyMyw0NTI5ODc1MiwyNjU0ND
-IwMjYsMjA1OTc2OTAzMiwtMTU3NTM3OTg5LDE2NjkxNTE5MzIs
-LTExMzM4MTE5NjEsMTk5NzU0MjkyMF19
+eyJoaXN0b3J5IjpbMTQwNzE0NDYxLDQ1Mjk4NzUyLDI2NTQ0Mj
+AyNiwyMDU5NzY5MDMyLC0xNTc1Mzc5ODksMTY2OTE1MTkzMiwt
+MTEzMzgxMTk2MSwxOTk3NTQyOTIwXX0=
 -->
