@@ -22,7 +22,7 @@ User class 생성  (사용자 권한과 정보)
 	- User
 	- UserRepository
 
-## 4.스프링 시큐리티 
+## 4.스프링 시큐리티 설정
 - org.springframework.boot:spring-boot-starter-oauth2-client 의존성 추가
 - config.auth (security 관련 클래스)
 	- CustomOauth2UserService
@@ -58,6 +58,6 @@ https://developers.naver.com/apps/#/register?api=nvlogin 등록
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTI2NzUzNjQsNjczMzg3ODc4LC03Nj
-g4MTc4OThdfQ==
+eyJoaXN0b3J5IjpbLTI4OTM5MDUxNSwtMTM1MjY3NTM2NCw2Nz
+MzODc4NzgsLTc2ODgxNzg5OF19
 -->
