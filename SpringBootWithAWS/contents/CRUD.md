@@ -45,7 +45,7 @@ Spring boot 내의 Mustache 위치
 - 서버 템플릿 엔진과 클라이언트 템플릿 엔진의 차이
 - 머스테치 기본 사용방법
 - 화면처리 방식
-- 
+
 
 
 
@@ -63,7 +63,7 @@ Spring boot 내의 Mustache 위치
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDg3MTc4ODcsNDUyOTg3NTIsMjY1ND
-QyMDI2LDIwNTk3NjkwMzIsLTE1NzUzNzk4OSwxNjY5MTUxOTMy
-LC0xMTMzODExOTYxLDE5OTc1NDI5MjBdfQ==
+eyJoaXN0b3J5IjpbNTc5NzAxNDkyLDQ1Mjk4NzUyLDI2NTQ0Mj
+AyNiwyMDU5NzY5MDMyLC0xNTc1Mzc5ODksMTY2OTE1MTkzMiwt
+MTEzMzgxMTk2MSwxOTk3NTQyOTIwXX0=
 -->
