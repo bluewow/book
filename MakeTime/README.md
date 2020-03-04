@@ -20,8 +20,10 @@ Point
 - 돌아보기 : 시스템을 조절하고 개선하라
 
 ## SmallProject
-makeTime 
+MakeTime 실생활 적용을 위한 개인 프로젝트
+
+[MakeTime SmallProject](https://github.com/bluewow/makeTime)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTc0NjA2MDAsMTI3NjIzMjk3NCwyMD
-IyNTc3OTM0LC0xOTk0MjIyNTAxXX0=
+eyJoaXN0b3J5IjpbLTgwNDg3MjQ2MSwtMTY5NzQ2MDYwMCwxMj
+c2MjMyOTc0LDIwMjI1Nzc5MzQsLTE5OTQyMjI1MDFdfQ==
 -->
