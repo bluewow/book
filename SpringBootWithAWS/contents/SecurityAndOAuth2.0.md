@@ -54,6 +54,9 @@ User class 생성  (사용자 권한과 정보)
   - DB 를 세션장소로 사용한다 (DB IO 가 발생하여 성능 이슈가 발생할 수 있다)  - 선택하여 진행
   - Redis, Memcached 와 같은 메모리 DB 를 사용한다 (B2C 서비스 에서 가장 많이 사용) 외부 메모리 서버가 필요
   
+- config
+	- JpaConfig
+
 ## 7.네이버  로그인하기
 https://developers.naver.com/apps/#/register?api=nvlogin 등록
 
@@ -70,7 +73,7 @@ https://developers.naver.com/apps/#/register?api=nvlogin 등록
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDg0OTM3NDMsMTI4MjYzOTY5NywxOT
+eyJoaXN0b3J5IjpbLTIwMTI3OTAyOTAsMTI4MjYzOTY5NywxOT
 c4NzkzODM1LC0yODkzOTA1MTUsLTEzNTI2NzUzNjQsNjczMzg3
 ODc4LC03Njg4MTc4OThdfQ==
 -->
