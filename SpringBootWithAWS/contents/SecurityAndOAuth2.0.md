@@ -51,9 +51,11 @@ https://developers.naver.com/apps/#/register?api=nvlogin 등록
 - MockMvc
   
  ## 요약
+ - Spring Security 와 OAuth 2.0 사용법
+ - 구글, 네이버 로그인
  - 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg1NDE2MDYyLC03Njg4MTc4OThdfQ==
+eyJoaXN0b3J5IjpbMTc0MjE5Mzg4MiwtNzY4ODE3ODk4XX0=
 -->
