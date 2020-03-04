@@ -21,7 +21,10 @@ User class 생성
 ## 4.스프링 시큐리티 
 - org.springframework.boot:spring-boot-starter-oauth2-client 의존성 추가
 - config.auth 패키지 추가 (security 관련 클래스)
-  - CustomOauth2UserService, SecurityConfig, dto - OAuthAttributes, SessionUser  
+- 구성
+	- CustomOauth2UserService
+	- SecurityConfig \
+	- dto - OAuthAttributes, SessionUser  
   
 ## 5.어노테이션 기반으로 개선하기
 - 반복적호출을 어노테이션으로 대체한다
@@ -48,5 +51,5 @@ https://developers.naver.com/apps/#/register?api=nvlogin 등록
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2ODgxNzg5OF19
+eyJoaXN0b3J5IjpbLTExNDc0NTc5ODIsLTc2ODgxNzg5OF19
 -->
