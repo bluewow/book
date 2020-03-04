@@ -11,8 +11,9 @@
 구글서비스에서 신규서비스 생성(https://console.cloud.google.com)
 
 ## 2. Spring 설정
-- application-oauth-properties 추가(client id,pw,scope 등록)
-- application-properties 에서 oauth properties 등록
+- properties 가 xxx-properties 를 포함하는 구조
+	- application-oauth-properties 추가(client id,pw,scope 등록)
+	- application-properties 에서 oauth properties 등록
 
 ## 3.구글로그인 연동하기
 User class 생성  (사용자 권한과 정보)
@@ -57,5 +58,6 @@ https://developers.naver.com/apps/#/register?api=nvlogin 등록
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjczMzg3ODc4LC03Njg4MTc4OThdfQ==
+eyJoaXN0b3J5IjpbLTEzNTI2NzUzNjQsNjczMzg3ODc4LC03Nj
+g4MTc4OThdfQ==
 -->
