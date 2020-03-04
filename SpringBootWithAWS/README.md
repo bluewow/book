@@ -5,8 +5,9 @@
 * JPA
 * 트랜잭션 스크립트와 Domain 방식
 * [Domain 중심의 게시판 구조](https://github.com/bluewow/book/blob/master/SpringBootWithAWS/contents/DomainPosts.md)
-* [로그인 구현하기](https://github.com/bluewow/book/blob/master/SpringBootWithAWS/contents/SecurityAndOAuth2.0.md)
 * [Mustache 를 통해 화면 구성하기](https://github.com/bluewow/book/blob/master/SpringBootWithAWS/contents/CRUD.md)
+* [로그인 구현하기](https://github.com/bluewow/book/blob/master/SpringBootWithAWS/contents/SecurityAndOAuth2.0.md)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDM2Njc2M119
+eyJoaXN0b3J5IjpbOTk0MDU2NTU3XX0=
 -->
