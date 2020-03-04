@@ -53,11 +53,13 @@ https://developers.naver.com/apps/#/register?api=nvlogin 등록
   
  ## 요약
  - Spring Security 와 OAuth 2.0 사용법
- - 구글, 네이버 로그인
- - 
+ - 스프링 시큐리티를 이용한 구글, 네이버 로그인
+ - 세션 저장소로 tomcat/db/메모리 db 가 있으며 이 중 데이터 베이스를 사용한 이유
+ - ArgumentResolver 를 이용하면 어노테이션으로 로그인 세션 정보를 가져올 수 았다
+ - 시큐리티
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4OTM5MDUxNSwtMTM1MjY3NTM2NCw2Nz
-MzODc4NzgsLTc2ODgxNzg5OF19
+eyJoaXN0b3J5IjpbLTIwMjQxNjg4MzcsLTI4OTM5MDUxNSwtMT
+M1MjY3NTM2NCw2NzMzODc4NzgsLTc2ODgxNzg5OF19
 -->
