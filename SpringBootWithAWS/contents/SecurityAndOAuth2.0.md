@@ -23,8 +23,10 @@ User class 생성
 - config.auth 패키지 추가 (security 관련 클래스)
 - 구성
 	- CustomOauth2UserService
-	- SecurityConfig \
-	- dto - OAuthAttributes, SessionUser  
+	- SecurityConfig 
+	- dto
+		- OAuthAttributes  
+		- SessionUser  
   
 ## 5.어노테이션 기반으로 개선하기
 - 반복적호출을 어노테이션으로 대체한다
@@ -51,5 +53,5 @@ https://developers.naver.com/apps/#/register?api=nvlogin 등록
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDc0NTc5ODIsLTc2ODgxNzg5OF19
+eyJoaXN0b3J5IjpbMjEzMjUyNDA2NSwtNzY4ODE3ODk4XX0=
 -->
