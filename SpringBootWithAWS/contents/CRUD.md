@@ -25,7 +25,7 @@ Spring boot 내의 Mustache 위치
 
 ![layout](../assets/crud_2.png)
 
-## 기타/정리
+## 정리
 - Spring boot 에서 Front 관련 코드는 어디서 관리될까?
 	- Spring boot 는 기본적으로 src/main/resources 에 위치하며 자동으로 인식된다
 - index.js 에서 변수의 속성에 function 을 추가한 이유는?
@@ -34,7 +34,9 @@ Spring boot 내의 Mustache 위치
 	- css 는 header 에 js 는 footer 에 배치. HTML 의 로딩순서는 위에서부터 아래이다. 즉 js 의 용량이 클수록 실행이 느려지면 css 를 먼저 호출한다
 - 레이아웃 방식이란?
 	- 공통영역(header, footer, side) 를 별도의 파일로 분리하여 React 의 component 처럼 가져다 쓰는 방식
+- REST 에서 CRUD 는 다음과 같이 HTTP Method 에 매핑된다
 	
+# 요약
 
 
 
@@ -52,7 +54,7 @@ Spring boot 내의 Mustache 위치
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyOTg3NTIsMjY1NDQyMDI2LDIwNTk3Nj
-kwMzIsLTE1NzUzNzk4OSwxNjY5MTUxOTMyLC0xMTMzODExOTYx
-LDE5OTc1NDI5MjBdfQ==
+eyJoaXN0b3J5IjpbMTY1ODYxNTcyMyw0NTI5ODc1MiwyNjU0ND
+IwMjYsMjA1OTc2OTAzMiwtMTU3NTM3OTg5LDE2NjkxNTE5MzIs
+LTExMzM4MTE5NjEsMTk5NzU0MjkyMF19
 -->
