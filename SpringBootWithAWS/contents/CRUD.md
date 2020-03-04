@@ -21,6 +21,9 @@ Spring boot 내의 Mustache 위치
 
 ![layout](../assets/crud_1.png)
 
+## 구성도
+
+![layout](../assets/crud_2.png)
 
 ## 기타/정리
 - Spring boot 에서 Front 관련 코드는 어디서 관리될까?
@@ -49,7 +52,7 @@ Spring boot 내의 Mustache 위치
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY1NDQyMDI2LDIwNTk3NjkwMzIsLTE1Nz
-UzNzk4OSwxNjY5MTUxOTMyLC0xMTMzODExOTYxLDE5OTc1NDI5
-MjBdfQ==
+eyJoaXN0b3J5IjpbNDUyOTg3NTIsMjY1NDQyMDI2LDIwNTk3Nj
+kwMzIsLTE1NzUzNzk4OSwxNjY5MTUxOTMyLC0xMTMzODExOTYx
+LDE5OTc1NDI5MjBdfQ==
 -->
