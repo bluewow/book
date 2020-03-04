@@ -7,8 +7,8 @@
 - 손목시계 차기
 - 아침의 확인 절차 건너뛰기(뉴스나 이메일 보단 보다 집중할 수 있는 책이나 개인 명상)
 - 나만의 스타트 신호를 만들어라 (배경음악, 커피, 특별한 제스처)
-- 
+- 눈에 보이는 타임 타이머를 설치하라 (아날로그)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMzQ5NzQxMiwyNzI0MzQxN119
+eyJoaXN0b3J5IjpbMTI5MzQwNjU5NSwyNzI0MzQxN119
 -->
