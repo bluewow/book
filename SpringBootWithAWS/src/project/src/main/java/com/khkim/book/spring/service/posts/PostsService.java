@@ -61,6 +61,7 @@ public class PostsService {
 
     }
 
+    //삭제
     @Transactional
     public void delete(Long id) {
         Posts posts = postsRepository.findById(id)

@@ -6,7 +6,7 @@ import lombok.Getter;
 import java.io.Serializable;
 
 /*
-*   인증된 사용자 정보만 필요하다 그외에 필요한 정보등ㄹ은 없으니 name, email, picture 만 필드로 선언ㄷ한다
+*   인증된 사용자 정보만 필요하다 그외에 필요한 정보등은 없으니 name, email, picture 만 필드로 선언한다
 * */
 @Getter
 public class SessionUser implements Serializable {

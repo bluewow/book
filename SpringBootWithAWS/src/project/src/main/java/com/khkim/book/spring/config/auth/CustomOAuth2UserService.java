@@ -57,6 +57,7 @@ public class CustomOAuth2UserService implements OAuth2UserService<OAuth2UserRequ
         // 직렬화란
         //  - 1편 (https://woowabros.github.io/experience/2017/10/17/java-serialize.html)
         //  - 2편 (https://woowabros.github.io/experience/2017/10/17/java-serialize2.html)
+        // 직렬화란?
         // 자바 시스템 내부에서 사용되는 Object 또는 Data를 외부의 자바 시스템에서도 사용할 수 있도록 byte 형태로 변환하는 기술
 
         return new DefaultOAuth2User(
@@ -65,7 +66,7 @@ public class CustomOAuth2UserService implements OAuth2UserService<OAuth2UserRequ
                 attributes.getNameAttributeKey());
     }
 
-    //정보 업데이트 되었을 때를 대배하여 update 기능 추가
+    //정보 업데이트 되었을 때를 대비하여 update 기능 추가
     //사용자의 이름이나 프로필 사진이 변경되면 User Entity 도 반영된다
     private User saveOrUpdate(OAuthAttributes attributes) {
         User user = userRepository.findByEmail(attributes.getEmail())

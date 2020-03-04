@@ -16,6 +16,7 @@ public class PostsApiController {
     //@RequestBody Http 요청을 자바 객체로 변환
     @PostMapping("/api/v1/posts")   //등록
     public Long save(@RequestBody PostsSaveRequestDto requestDto) {
+        System.out.println(requestDto);
         return postsService.save(requestDto);
     }
 

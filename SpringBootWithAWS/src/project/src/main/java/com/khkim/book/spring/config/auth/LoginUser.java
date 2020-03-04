@@ -11,7 +11,7 @@ import java.lang.annotation.Target;
 *
 * */
 //이 어노테이션이 생성될수있는 위치를 지정한다
-//PARAMETER 로 지정했으니 메소드의 파라미터로 선언된 객체에서만 사용할 수 있다
+//PARAMETER 로 지정했으니 메소드의 "파라미터"로 선언된 객체에서만 사용할 수 있다
 //이 외에도 클래스 선언문에 쓸수있는 type 등도 있다
 @Target(ElementType.PARAMETER)
 @Retention(RetentionPolicy.RUNTIME)
