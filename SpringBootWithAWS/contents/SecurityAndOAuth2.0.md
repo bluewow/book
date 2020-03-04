@@ -1,10 +1,11 @@
 # 스프링 시큐리티와 OAuth 2.0 으로 로그인 
 
 - boot1.5 vs boot2.0
-	- 연동방법의 차이가 있느나 
+	- 연동방법의 차이가 있느나 spring-security-oauth2-autoconfigure 라이브러리 사용시 크게 차이가 없다
+- Spring boot2 방식인 Spring Security Oauth2 Client 라이브러리를 사용해서 진행
 
 ## 진행방식
-- Spring boot2 방식인 Spring Security Oauth2 Client 라이브러리를 사용해서 진행
+
 
 ## 1. 구글 서비스 등록
 구글서비스에서 신규서비스 생성(https://console.cloud.google.com)
@@ -56,5 +57,5 @@ https://developers.naver.com/apps/#/register?api=nvlogin 등록
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjQ1ODU3NjcsLTc2ODgxNzg5OF19
+eyJoaXN0b3J5IjpbNjczMzg3ODc4LC03Njg4MTc4OThdfQ==
 -->
