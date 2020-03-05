@@ -50,7 +50,7 @@ User class 생성  (사용자 권한과 정보)
 	- 파라미터가 SessionUser.class 인지
 	- LoginUser.class 가 null 이 아닌지
 3. 2의 조건을 만족시, 실제 동작 코드를 삽입한다
-4. WebMvcConfigurer 에 resolver 를 등록한다 (properties 로 할
+4. WebMvcConfigurer 에 resolver 를 등록한다 (properties 로 대체 가능할까?)
 
 ## 6.세션 저장소로 데이터베이스 사용하기
 - Why
@@ -80,8 +80,8 @@ https://developers.naver.com/apps/#/register?api=nvlogin 등록
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyODkxNDE4MiwyMDU1MTE1MTkyLDEzOT
-kwOTI2MDEsMTI4MjYzOTY5NywxOTc4NzkzODM1LC0yODkzOTA1
-MTUsLTEzNTI2NzUzNjQsNjczMzg3ODc4LC03Njg4MTc4OThdfQ
-==
+eyJoaXN0b3J5IjpbLTE5MTU1NDY5NTcsMjA1NTExNTE5MiwxMz
+k5MDkyNjAxLDEyODI2Mzk2OTcsMTk3ODc5MzgzNSwtMjg5Mzkw
+NTE1LC0xMzUyNjc1MzY0LDY3MzM4Nzg3OCwtNzY4ODE3ODk4XX
+0=
 -->
