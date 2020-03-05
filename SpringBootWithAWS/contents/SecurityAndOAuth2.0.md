@@ -68,7 +68,7 @@ https://developers.naver.com/apps/#/register?api=nvlogin 등록
 
 ## 8.기존 테스트에 시큐리티 적용하기
 - WebMvcTest
-- MockMvc
+- MockMvc 사
   
  ## 요약
  - Spring Security 와 OAuth 2.0 사용법
@@ -79,8 +79,8 @@ https://developers.naver.com/apps/#/register?api=nvlogin 등록
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3OTQ0NDU5LC0xOTE1NTQ2OTU3LDIwNT
-UxMTUxOTIsMTM5OTA5MjYwMSwxMjgyNjM5Njk3LDE5Nzg3OTM4
-MzUsLTI4OTM5MDUxNSwtMTM1MjY3NTM2NCw2NzMzODc4NzgsLT
-c2ODgxNzg5OF19
+eyJoaXN0b3J5IjpbLTcyMDM1NjQxNyw0ODc5NDQ0NTksLTE5MT
+U1NDY5NTcsMjA1NTExNTE5MiwxMzk5MDkyNjAxLDEyODI2Mzk2
+OTcsMTk3ODc5MzgzNSwtMjg5MzkwNTE1LC0xMzUyNjc1MzY0LD
+Y3MzM4Nzg3OCwtNzY4ODE3ODk4XX0=
 -->
