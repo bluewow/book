@@ -67,9 +67,12 @@ User class 생성  (사용자 권한과 정보)
 https://developers.naver.com/apps/#/register?api=nvlogin 등록
 
 ## 8.기존 테스트에 시큐리티 적용하기
-- WebMvcTest
-- MockMvc 사
+- WebMvcTest 사용법
+- MockMvc 사용법
   
+- config
+	- JPAConfig 
+	
  ## 요약
  - Spring Security 와 OAuth 2.0 사용법
  - 스프링 시큐리티를 이용한 구글, 네이버 로그인
@@ -79,7 +82,7 @@ https://developers.naver.com/apps/#/register?api=nvlogin 등록
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMDM1NjQxNyw0ODc5NDQ0NTksLTE5MT
+eyJoaXN0b3J5IjpbLTY4NjcxMDU5OCw0ODc5NDQ0NTksLTE5MT
 U1NDY5NTcsMjA1NTExNTE5MiwxMzk5MDkyNjAxLDEyODI2Mzk2
 OTcsMTk3ODc5MzgzNSwtMjg5MzkwNTE1LC0xMzUyNjc1MzY0LD
 Y3MzM4Nzg3OCwtNzY4ODE3ODk4XX0=
