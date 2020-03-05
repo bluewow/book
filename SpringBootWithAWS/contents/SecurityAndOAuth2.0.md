@@ -48,7 +48,9 @@ User class 생성  (사용자 권한과 정보)
 1. LoginUser 를 오노테이션 클래스로 지정한다
 2. LoginUser 에 대한 Resolver 를 등록한다
 	- 파라미터가 SessionUser.class 인지
-	- 
+	- LoginUser.class 가 null 이 아닌지
+3. 2의 조건을 만족시, 실제 동작 코드를 삽입한다
+4. WebMvcConfigurer 에 resolver 를 등록한다 (properties 로 할
 
 ## 6.세션 저장소로 데이터베이스 사용하기
 - Why
@@ -78,7 +80,7 @@ https://developers.naver.com/apps/#/register?api=nvlogin 등록
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzY4NjQ1MCwyMDU1MTE1MTkyLDEzOT
+eyJoaXN0b3J5IjpbLTYyODkxNDE4MiwyMDU1MTE1MTkyLDEzOT
 kwOTI2MDEsMTI4MjYzOTY5NywxOTc4NzkzODM1LC0yODkzOTA1
 MTUsLTEzNTI2NzUzNjQsNjczMzg3ODc4LC03Njg4MTc4OThdfQ
 ==
