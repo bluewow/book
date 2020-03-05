@@ -44,6 +44,11 @@ User class 생성  (사용자 권한과 정보)
 - config
 	- WebConfig : Spring 에서 인식하는 설정
 
+쉽게 생각하면 
+1. LoginUser 를 오노테이션 클래스로 지정한다
+2. LoginUser 에 대한 Resolver 를 등록한다
+	- 파라미터가 SessionUser.class 인지
+	- 
 
 ## 6.세션 저장소로 데이터베이스 사용하기
 - Why
@@ -73,7 +78,8 @@ https://developers.naver.com/apps/#/register?api=nvlogin 등록
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTExNTE5MiwxMzk5MDkyNjAxLDEyOD
-I2Mzk2OTcsMTk3ODc5MzgzNSwtMjg5MzkwNTE1LC0xMzUyNjc1
-MzY0LDY3MzM4Nzg3OCwtNzY4ODE3ODk4XX0=
+eyJoaXN0b3J5IjpbLTEyNzY4NjQ1MCwyMDU1MTE1MTkyLDEzOT
+kwOTI2MDEsMTI4MjYzOTY5NywxOTc4NzkzODM1LC0yODkzOTA1
+MTUsLTEzNTI2NzUzNjQsNjczMzg3ODc4LC03Njg4MTc4OThdfQ
+==
 -->
