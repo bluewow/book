@@ -39,11 +39,11 @@ User class 생성  (사용자 권한과 정보)
 반복적호출을 어노테이션으로 대체한다 (어노테이션 Create)
 
 - config.auth
-	- LoginUser
-	- LoginUserArgumentResolver
+	- LoginUser : Login User 를 사용하기 위한 환경 구성
+	- LoginUserArgumentResolver : Login User 를 사용하기 위한 환경 구성
 - config
-	- WebConfig 
-	- JpaConfig
+	- WebConfig : Spring 에서 인식하는 설정
+
 
 ## 6.세션 저장소로 데이터베이스 사용하기
 - Why
@@ -73,7 +73,7 @@ https://developers.naver.com/apps/#/register?api=nvlogin 등록
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5OTA5MjYwMSwxMjgyNjM5Njk3LDE5Nz
-g3OTM4MzUsLTI4OTM5MDUxNSwtMTM1MjY3NTM2NCw2NzMzODc4
-NzgsLTc2ODgxNzg5OF19
+eyJoaXN0b3J5IjpbMjA1NTExNTE5MiwxMzk5MDkyNjAxLDEyOD
+I2Mzk2OTcsMTk3ODc5MzgzNSwtMjg5MzkwNTE1LC0xMzUyNjc1
+MzY0LDY3MzM4Nzg3OCwtNzY4ODE3ODk4XX0=
 -->
