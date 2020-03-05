@@ -56,13 +56,12 @@ User class 생성  (사용자 권한과 정보)
 - Why
   - Application 재시작시 로그인이 해제(Session 이 내장 톰캣의 메모리에 저장되기 때문이다)
   - 2대 이상의 서버에서 서비스하고 있다면 세션 동기화 과정이 필요하다 
+
 - How (실무에서 아래 3가지중 하나를 선택한다)
   - 톰캣 세션 사용(2대 이상의 WAS 가 구동되는 환경에서는 톰캣간의 동기화 작업 필요)
   - DB 를 세션장소로 사용한다 (DB IO 가 발생하여 성능 이슈가 발생할 수 있다)  - 선택하여 진행
   - Redis, Memcached 와 같은 메모리 DB 를 사용한다 (B2C 서비스 에서 가장 많이 사용) 외부 메모리 서버가 필요
-  ###
-- config
-	- JpaConfig
+  
 
 ## 7.네이버  로그인하기
 https://developers.naver.com/apps/#/register?api=nvlogin 등록
@@ -80,8 +79,8 @@ https://developers.naver.com/apps/#/register?api=nvlogin 등록
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTU1NDY5NTcsMjA1NTExNTE5MiwxMz
-k5MDkyNjAxLDEyODI2Mzk2OTcsMTk3ODc5MzgzNSwtMjg5Mzkw
-NTE1LC0xMzUyNjc1MzY0LDY3MzM4Nzg3OCwtNzY4ODE3ODk4XX
-0=
+eyJoaXN0b3J5IjpbNDg3OTQ0NDU5LC0xOTE1NTQ2OTU3LDIwNT
+UxMTUxOTIsMTM5OTA5MjYwMSwxMjgyNjM5Njk3LDE5Nzg3OTM4
+MzUsLTI4OTM5MDUxNSwtMTM1MjY3NTM2NCw2NzMzODc4NzgsLT
+c2ODgxNzg5OF19
 -->
