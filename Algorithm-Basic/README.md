@@ -59,7 +59,9 @@
 
 이진트리 
 - 부모 1개, 자식 2개라는 관계를 활용하여 데이터 관리
-- 
+- 뿌리노드(부모 없는 노드), 잎 노드(자식 없는 노드)
+
+
 
 
 
@@ -75,6 +77,6 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTg0NTg3NywxODMyNTEzNjI5LC0yNz
+eyJoaXN0b3J5IjpbMjA4NzIwMzU4NiwxODMyNTEzNjI5LC0yNz
 gwOTI4MDddfQ==
 -->
