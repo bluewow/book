@@ -7,13 +7,13 @@
 *좋은 프로그램이란?*
 - 정당성(정확한 결과) + 정지성(정해진 시간)
 
-알고리즘 종류
+*알고리즘 종류*
 
-- 계산
-- 정렬
-- 검색
-- 매칭
+- 계산 : 최대공약수, 방정식, 정적분 ..등
+- 정렬 : 단순 선택, 삽입, 병합, 교환, 셸 등
+- 검색 : 선형, 이진 등
+- 매칭 : 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzMxODI5OCwtMjc4MDkyODA3XX0=
+eyJoaXN0b3J5IjpbLTY1OTcwNjY2LC0yNzgwOTI4MDddfQ==
 -->
