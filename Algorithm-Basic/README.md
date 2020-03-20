@@ -26,6 +26,7 @@
 
 ## 2. 자료구조
 
+자료구조란? 
 **대량 데이터의 유지 관리 방법**
 
 종류
@@ -38,8 +39,13 @@
 **배열과 리스트**
 
 리스트의 종류
-- 단방향 리스트 : 
+- 단방향 리스트
+	- 각 요소는 데이터와 Next 포인터로 구성된다
+	-  head 포인터가 있다
 - 양방향 리스트
+	- 각 요소는 데이터와 Next / Prev 포인터로 구성된다
+	- head 포인터와 tail 포인터가 있다
+
 
 --------
 **배열과 리스트의 차이**
@@ -69,6 +75,6 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MzM0NzMwOSwxODMyNTEzNjI5LC0yNz
-gwOTI4MDddfQ==
+eyJoaXN0b3J5IjpbLTExNjU2NDkxODAsMTgzMjUxMzYyOSwtMj
+c4MDkyODA3XX0=
 -->
