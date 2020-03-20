@@ -62,9 +62,16 @@
 - Next 요소를 가리키는 포인터를 2개가진 단방향 리스트
 - 뿌리노드(부모 없는 노드), 잎 노드(자식 없는 노드)
 
-힘 트리
+힙 트리
 - 부모 노드의 값이 자식 노드의 값보다 항상 적거나 큰 트리
-- 
+- 최소, 최대값을 구하기 쉽다
+- 배열을 사용한 힙 구현
+	- 깊이는 작은쪽에서 큰쪽으로
+	- 노드의 왼쪽에서 오른쪽 방향으로
+
+해시테이블
+- 배열과 리스트를 조합한 자료구조 형태
+- 데이터 -> 해시함수 -> 해시값(배열)을 
 
 
 
@@ -80,6 +87,6 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MDMxNzM2OCwxODMyNTEzNjI5LC0yNz
-gwOTI4MDddfQ==
+eyJoaXN0b3J5IjpbLTEwNzgxODUwNTEsLTg3MDMxNzM2OCwxOD
+MyNTEzNjI5LC0yNzgwOTI4MDddfQ==
 -->
