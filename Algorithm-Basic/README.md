@@ -29,16 +29,18 @@
 **대량 데이터의 유지 관리 방법**
 
 종류
-- 배열
-- 리스트 
+- 배열 : 연속된 데이터의 나열(1, 2, 3차원)
+- 리스트 : 배열과 달리 ㅊ
 - 스택
 - 큐
 - 트리
 
 
 
+
+
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NzQxNzIyMSwtMjc4MDkyODA3XX0=
+eyJoaXN0b3J5IjpbNzgxMTU0OTgxLC0yNzgwOTI4MDddfQ==
 -->
