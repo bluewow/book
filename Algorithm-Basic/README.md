@@ -41,7 +41,12 @@
 [조회시]
 - 배열 > 리스트
 	- 배열 : N 번째 요소에 바로 참조
-	- 리스트 : 첫번째 요소부터 찾는
+	- 리스트 : 첫번째 요소부터 N 번째 요소까지 순서대로 찾아야 한다
+[ 삽입 / 삭제시]
+- 배열 < 리스트 
+	- 배열 : 삽입/삭제 후 이후 배열을 모두 이동시켜야 한다
+	- 리스트 : 연결된 주소를 자르고 새로 삽입/삭제한다
+
 
 
 
@@ -51,6 +56,6 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODUyNzY1OTcsMTgzMjUxMzYyOSwtMj
-c4MDkyODA3XX0=
+eyJoaXN0b3J5IjpbMTk4Njg1OTM5NSwxODMyNTEzNjI5LC0yNz
+gwOTI4MDddfQ==
 -->
