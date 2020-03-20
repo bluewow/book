@@ -30,11 +30,18 @@
 
 종류
 - 배열 : 연속된 데이터의 나열(1, 2, 3차원)
+	- 링버퍼
 - 리스트 : 속성은 배열과 같지만, 주소로 엮어서 데이터를 관리
-	- 단방향, 양방향 리스트 
+	- 단방향, 양방향 리스트
 - 스택 : LIFO or FILO 구조
 - 큐 : FIFO or LILO 구조
 - 트리 : 나뭇가지가 퍼져나가는 구조
+
+**배열과 리스트**
+[조회시]
+- 배열 > 리스트
+	- 배열 : N 번째 요소에 바로 참조
+	- 리스트 : 첫번째 요소부터 찾는
 
 
 
@@ -44,6 +51,6 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgwOTI4ODAzLDE4MzI1MTM2MjksLTI3OD
-A5MjgwN119
+eyJoaXN0b3J5IjpbLTExODUyNzY1OTcsMTgzMjUxMzYyOSwtMj
+c4MDkyODA3XX0=
 -->
