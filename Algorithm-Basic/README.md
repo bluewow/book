@@ -71,7 +71,13 @@
 
 해시테이블
 - 배열과 리스트를 조합한 자료구조 형태
-- 데이터 -> 해시함수 -> 해시값(배열)을 
+	- 데이터 -> 해시함수 -> 해시값(배열)
+	- 배열 -> 리스트
+
+그래프
+- 정점(Node) 와 간선(Edge) 로 데이터의 연결관계를 포함한 자료구조
+	- 방향성
+	- 가중치(비용) 
 
 
 
@@ -87,6 +93,6 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzgxODUwNTEsLTg3MDMxNzM2OCwxOD
+eyJoaXN0b3J5IjpbLTExNTQ0Mzk4MDgsLTg3MDMxNzM2OCwxOD
 MyNTEzNjI5LC0yNzgwOTI4MDddfQ==
 -->
