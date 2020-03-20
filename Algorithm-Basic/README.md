@@ -59,11 +59,12 @@
 
 이진트리 
 - 부모 1개, 자식 2개라는 관계를 활용하여 데이터 관리
-- Next 요소를 가리키는 포인터
+- Next 요소를 가리키는 포인터를 2개가진 단방향 리스트
 - 뿌리노드(부모 없는 노드), 잎 노드(자식 없는 노드)
 
 힘 트리
 - 부모 노드의 값이 자식 노드의 값보다 항상 적거나 큰 트리
+- 
 
 
 
@@ -79,6 +80,6 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNDY2NDQxOSwxODMyNTEzNjI5LC0yNz
+eyJoaXN0b3J5IjpbLTg3MDMxNzM2OCwxODMyNTEzNjI5LC0yNz
 gwOTI4MDddfQ==
 -->
