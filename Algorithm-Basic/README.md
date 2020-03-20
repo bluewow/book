@@ -1,7 +1,6 @@
+# 그림으로 배우는 알고리즘
 
 
-
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTI3ODA5MjgwN119
 -->
