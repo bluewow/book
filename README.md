@@ -13,5 +13,8 @@
 - Do it 자료구조와 함께 배우는 알고리즘 입문
 - 그림으로 배우는 클라우드
 - 그림으로 배우는 네트워크 원리
-- 그림으로 배우는 알고리즘 Basic
+- [그림으로 배우는 알고리즘 Basic]()
 - 그림으로 배우는 Http 네트워크 Basic
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTg3NDg2NzkxOF19
+-->
