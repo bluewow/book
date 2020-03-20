@@ -30,7 +30,7 @@
 
 종류
 - 배열 : 연속된 데이터의 나열(1, 2, 3차원)
-	- 링버퍼
+	- 링버퍼(큐 구현) : 배열의 마지막 ㅇ
 - 리스트 : 속성은 배열과 같지만, 주소로 엮어서 데이터를 관리
 	- 단방향, 양방향 리스트
 - 스택 : LIFO or FILO 구조
@@ -59,6 +59,6 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1ODY5MjU0MCwxODMyNTEzNjI5LC0yNz
+eyJoaXN0b3J5IjpbLTg4OTgzNDc3OSwxODMyNTEzNjI5LC0yNz
 gwOTI4MDddfQ==
 -->
