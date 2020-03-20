@@ -15,12 +15,23 @@
 - 매칭 : 단순문자열 일치. KMP, BM 등
 
 ## 변수와 배열
-데이터 입력
+
+변수 = 데이터를 저장하기 위한 공간
+
+구성 : 알고리즘(데이터 + 처리) 
+- 데이터 
+	- 타입 : 숫자, 문자
+
+
+
+
+
+
 
 ## 자료구조
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzczNTUwMTAsLTI3ODA5MjgwN119
+eyJoaXN0b3J5IjpbLTE4OTMzNzQ3ODQsLTI3ODA5MjgwN119
 -->
