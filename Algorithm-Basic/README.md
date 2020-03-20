@@ -16,22 +16,29 @@
 
 ## 변수와 배열
 
-변수 = 데이터를 저장하기 위한 공간
+**변수 = 데이터를 저장하기 위한 공간**
 
 구성 : 알고리즘(데이터 + 처리) 
 - 데이터 
-	- 타입 : 숫자, 문자
-
-
-
-
-
+	- 타입 : 숫자, 문자, 논리
+	- 값
 
 
 ## 자료구조
 
+**대량 데이터의 유지 관리 방법**
+
+종류
+- 배열
+- 리스트 
+- 스택
+- 큐
+- 트리
+
+
+
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTMzNzQ3ODQsLTI3ODA5MjgwN119
+eyJoaXN0b3J5IjpbLTQ3NzQxNzIyMSwtMjc4MDkyODA3XX0=
 -->
