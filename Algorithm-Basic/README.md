@@ -30,8 +30,8 @@
 
 종류
 - 배열 : 연속된 데이터의 나열(1, 2, 3차원)
-- 리스트 : 배열과 달리 ㅊ
-- 스택
+- 리스트 : 속송은 배열과 같지만, 값과 주소로 이루어저 있다
+- 스택 : LIFO or FILO 그조
 - 큐
 - 트리
 
@@ -42,5 +42,5 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgxMTU0OTgxLC0yNzgwOTI4MDddfQ==
+eyJoaXN0b3J5IjpbMTg5MDAzMDUzMywtMjc4MDkyODA3XX0=
 -->
