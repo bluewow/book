@@ -36,8 +36,7 @@
 - 큐 : FIFO or LILO 구조
 - 트리 : 나뭇가지가 퍼져나가는 구조
 
-
-리스트의 종류
+리스트
 - 단방향 리스트
 	- 각 요소는 데이터와 Next 포인터로 구성된다
 	-  head 포인터가 있다
@@ -55,7 +54,12 @@
 	- 배열 : 삽입/삭제 후 이후 배열을 모두 이동시켜야 한다
 	- 리스트 : 연결된 주소를 자르고 새로 삽입/삭제한다
 
-링버퍼(큐 구현) : 배열의 마지막 요소와 1번째 요소 연결
+배열과 큐
+- 링버퍼(큐 구현) : 배열의 마지막 요소와 1번째 요소 연결\
+
+이진트리 
+- 부모 1개, 자식 2개라는 관계를 활용하여 데이터 관리
+- 
 
 
 
@@ -71,6 +75,6 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MzQwODMxOCwxODMyNTEzNjI5LC0yNz
+eyJoaXN0b3J5IjpbMTA3MTg0NTg3NywxODMyNTEzNjI5LC0yNz
 gwOTI4MDddfQ==
 -->
