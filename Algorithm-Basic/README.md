@@ -30,10 +30,11 @@
 
 종류
 - 배열 : 연속된 데이터의 나열(1, 2, 3차원)
-- 리스트 : 속송은 배열과 같지만, 값과 주소로 이루어저 있다
-- 스택 : LIFO or FILO 그조
-- 큐
-- 트리
+- 리스트 : 속성은 배열과 같지만, 주소로 엮어서 데이터를 관리
+- 스택 : LIFO or FILO 구조
+- 큐 : FIFO or LILO 구조
+- 트리 : 나뭇가지가 퍼져나가는 구조
+
 
 
 
@@ -42,5 +43,5 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MDAzMDUzMywtMjc4MDkyODA3XX0=
+eyJoaXN0b3J5IjpbMTgzMjUxMzYyOSwtMjc4MDkyODA3XX0=
 -->
