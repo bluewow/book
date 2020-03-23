@@ -7,6 +7,7 @@
 * [Domain 중심의 게시판 구조](https://github.com/bluewow/book/blob/master/SpringBootWithAWS/contents/DomainPosts.md)
 * [Mustache 를 통해 화면 구성하기](https://github.com/bluewow/book/blob/master/SpringBootWithAWS/contents/CRUD.md)
 * [로그인 구현하기](https://github.com/bluewow/book/blob/master/SpringBootWithAWS/contents/SecurityAndOAuth2.0.md)
+* [AWS 서버와 데이터베이스 구축](https://www.notion.so/SpringBootWithAWS-AWS-80ee4997c8aa424596f0df79677a4a8f)
 
 ## Source Repository
 [https://github.com/bluewow/springBootWithAWS](https://github.com/bluewow/springBootWithAWS)
