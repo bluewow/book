@@ -3,7 +3,7 @@
 
 2019년 
 - [스프링 부트와 AWS로 혼자 구현하는 웹서비스](https://github.com/bluewow/book/tree/master/SpringBootWithAWS)
-- [메이크타임](https://github.com/bluewow/book/tree/master/MakeTime)
+- [메이크타임](https://www.notion.so/456b55467208400d8d886a91e73ac0c4)
 - 스프린트 
 - 리액트 네이티브 인 액션
 - Inside 자바스크립트
