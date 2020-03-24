@@ -15,7 +15,7 @@
 - 그림으로 배우는 네트워크 원리
 - [그림으로 배우는 알고리즘 Basic](https://www.notion.so/6971de8d1d1a4e78a559858858881fe9)
 - 그림으로 배우는 Http 네트워크 Basic
-- [알고리즘 문제해결전략]()
+- [알고리즘 문제해결전략](https://www.notion.so/128a2f53b315408ebc7357ccd5ebc73d)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEyMTU5NDQzMDNdfQ==
 -->
