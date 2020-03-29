@@ -1,10 +1,10 @@
-# book
-도서내용을 기록
-
-2019년 
+## book
+- 도서내용을 기록
+- notion 에서 관리되고 있음 [Link](https://www.notion.so/bluewow/a741dfbc688e4ab4a7e249a636ec2a67?v=704ec2ba93714422ae9f027e34645b29)
+ 
+## 목록 (개별링크)
 - [스프링 부트와 AWS로 혼자 구현하는 웹서비스(BackEnd)](https://www.notion.so/bluewow/SpringBootWithAWS-BackEnd-a911b23f58124a02b85e3c0a7bbb606b)
-- [스프링 부트와 AWS로 혼자 구현하는 웹서비스(AWS)](https://github.com/bluewow/book/tree/master/SpringBootWithAWS)
-- [메이크타임](https://www.notion.so/456b55467208400d8d886a91e73ac0c4)
+- [스프링 부트와 AWS로 혼자 구현하는 웹서비스(AWS)](https://www.notion.so/bluewow/SpringBootWithAWS-AWS-955203fb7ade43dd8cb95fb167c0ce18)
 - 스프린트 
 - 리액트 네이티브 인 액션
 - Inside 자바스크립트
